@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>xml example</comment>
+    <entry key="gatewayIP">127.0.0.1</entry>
+    <entry key="gatewayPort">5500</entry>
+    <entry key="uuid">01111111-1111-1111-1111-111111111111</entry>
+</properties>
